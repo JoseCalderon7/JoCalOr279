@@ -23,7 +23,4 @@ Los componentes de mi computadora son los siguientes:<br>- Procesador: AMD Ryzen
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JoCalOr279&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoCalOr279&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Contribuciones 🔝
-![](https://github-contributor-stats.vercel.app/api?username=JoCalOr279&limit=5&theme=holi&combine_all_yearly_contributions=true)
-
 <!-- Página de ayuda: https://gprm.itsvg.in -->
